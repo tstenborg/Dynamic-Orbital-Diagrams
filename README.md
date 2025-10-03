@@ -6,7 +6,7 @@ Dynamic planetary orbital diagrams in Word via VBA.
 
 <figure style="width:616px;">
   <img src="Orbital_Diagrams_Example.png" alt="The anticlockwise orbits of the Solar System's planets viewed from the J2000 north ecliptic pole at JD 2460952." width="616" height="382">
-  <figcaption>Figure 1. The anticlockwise orbits of the Solar System's planets viewed from the J2000 north ecliptic pole at JD 2460952 (03-Oct-2025, 12 PM, UTC). The J2000 vernal equinox forms the Cartesian x-axis (horizontal, right oriented). Open circles at the centre of the diagrams represent the Sun. The small, filled circles represent planets. Left: the orbits of Mercury, Venus, the Earth-Moon barycentre and Mars, in order of increasing orbital radius. Right: the orbits of Jupiter, Saturn, Uranus, Neptune and Pluto, again in order of increasing orbital radius. Lengths are denoted in astronomical units (AU). Solar and planetary radii aren't rendered to scale.</figcaption>
+  <figcaption>Figure 1. The anticlockwise orbits of the Solar System's planets viewed from the J2000 north ecliptic pole at JD 2460952 (03-Oct-2025, 12 PM, UTC). The J2000 vernal equinox forms the Cartesian x-axis (horizontal, right oriented). Open circles at the centre of the diagrams represent the Sun. The small, filled circles represent planets. Left: the orbits of Mercury, Venus, the Earth-Moon barycentre and Mars, in order of increasing orbital radius. Right: the orbits of Jupiter, Saturn, Uranus, Neptune and Pluto, again in order of increasing orbital radius. Lengths are denoted in astronomical units (AU). Solar and planetary radii aren't rendered to scale. Adapted from Stenborg (in press), below.</figcaption>
 </figure>
 
 ---
