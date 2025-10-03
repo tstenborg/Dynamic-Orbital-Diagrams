@@ -23,7 +23,7 @@ Dynamic planetary orbital diagrams were developed for Microsoft Word. Rendering 
 
 - Word (Windows version).
 
-The webcam sampler has been tested with Word, version 2508, on Windows 11.
+The orbital diagrams generator has been tested with Word, version 2508, on Windows 11.
 
 ### Software Configuration
 
